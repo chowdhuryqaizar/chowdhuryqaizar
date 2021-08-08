@@ -1,7 +1,7 @@
 ```javascript
 {
   name: "chowdhury qaizar",
-  education: "cs @ uwaterloo",
+  school: "cs @ uwaterloo",
   currently: "swe @ altis-labs",
   seeking: "winter 2022 internships"
 }
