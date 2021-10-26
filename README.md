@@ -2,7 +2,7 @@
 {
   name: "chowdhury qaizar",
   school: "cs @ uwaterloo",
-  previously: "swe @ altis-labs",
+  incoming: "swe @ bitgo",
   seeking: "summer 2022 internships"
 }
 ```
